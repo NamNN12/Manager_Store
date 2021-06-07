@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ASMFINAL</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+
+    <string-array name="planets_array">
+        <item>Thu</item>
+        <item>Chi</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
